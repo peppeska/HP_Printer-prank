@@ -18,7 +18,6 @@ text = ''
 
 helptext='printer.py -l <lineWidth> -m <maxChars> -H <Host> -p <port> -t <TextToSend [needed]>'
 
-print "Hi!"
 
 try:
    opts, args = getopt.getopt(sys.argv[1:],"hl:m:H:p:t:")
