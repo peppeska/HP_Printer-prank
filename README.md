@@ -1,6 +1,8 @@
 #HP Printer Prank
 
-![https://img.shields.io/twitter/url/https/github.com/peppeska/HP_Printer-prank.svg?style=social] (https://img.shields.io/twitter/url/https/github.com/peppeska/HP_Printer-prank.svg?style=social)
+[![Latest Version](https://img.shields.io/twitter/url/https/github.com/peppeska/HP_Printer-prank.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fpeppeska%2FHP_Printer-prank)
+
+
 
 ##Usage:
 **Normal Options**
