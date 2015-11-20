@@ -1,5 +1,7 @@
 #HP Printer Prank
 
+![https://img.shields.io/twitter/url/https/github.com/peppeska/HP_Printer-prank.svg?style=social] (https://img.shields.io/twitter/url/https/github.com/peppeska/HP_Printer-prank.svg?style=social)
+
 ##Usage:
 **Normal Options**
 You need to pass only Ip addred and text:
