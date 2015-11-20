@@ -1,7 +1,9 @@
 #HP Printer Prank
 
-[![Latest Version](https://img.shields.io/twitter/url/https/github.com/peppeska/HP_Printer-prank.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fpeppeska%2FHP_Printer-prank)
-
+[![GitHub issues](https://img.shields.io/github/issues/peppeska/HP_Printer-prank.svg)](https://github.com/peppeska/HP_Printer-prank/issues)
+[![GitHub forks](https://img.shields.io/github/forks/peppeska/HP_Printer-prank.svg)](https://github.com/peppeska/HP_Printer-prank/network)
+[![GitHub stars](https://img.shields.io/github/stars/peppeska/HP_Printer-prank.svg)](https://github.com/peppeska/HP_Printer-prank/stargazers)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/peppeska/HP_Printer-prank.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 
 
 ##Usage:
